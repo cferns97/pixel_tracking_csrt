@@ -1,4 +1,4 @@
-# CSRT Object Tracker with OpenCV
+# CSRT Object Tracker with OpenCV and Webcam
 
 A real-time object tracker using OpenCV's **CSRT Tracker**.  
 The tracker allows you to start and stop tracking an object using **left-click**.
